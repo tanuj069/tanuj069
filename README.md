@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/10658/1*UgN9BVWi-6nkJlUrI4Oa-Q.jpeg)
+<!-- [![MasterHead](https://miro.medium.com/max/10658/1*UgN9BVWi-6nkJlUrI4Oa-Q.jpeg) -->
 
 <h1 align="center">Hi 👋, I'm Tanuj Sharma</h1>
 <h3 align="center">A passionate COMPETITIVE CODER from India</h3>
