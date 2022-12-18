@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tanujsharma0069@gmail.com**
 
-- 📄 Know about my experiences [http://drive.google.com/file/d/1WbnhRfFw85f4RyuQIvHNABNDR4cKEnl0/view?usp=sharing](http://drive.google.com/file/d/1WbnhRfFw85f4RyuQIvHNABNDR4cKEnl0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/19-QTC-ySz6_oRsJMpOei3Jl9HF7KoGOr?usp=share_link]
 
 - ⚡ Fun fact **Yeah, I'm very funny !!!**
 
