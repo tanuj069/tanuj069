@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966)
+[![MasterHead](https://camo.githubusercontent.com/53a8c8cead4d160cf13c18a5efaf2b681c6027de7a7b4e3b19f7ba2b96379941/68747470733a2f2f6173322e667463646e2e6e65742f76322f6a70672f30312f34322f31392f30312f313030305f465f3134323139303135335f724e4d554836686c617845424f4b4f6e3953463341617a6f7247636f474a72782e6a7067)
 
 <h1 align="center">Hi 👋, I'm Tanuj Sharma</h1>
 <h3 align="center">A passionate COMPETITIVE CODER from India</h3>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C/C++, Python, DSA**
 
-- 📫 How to reach me **tanujsharma0069@gmail.com**
+- 📫 How to reach me **tanuj2020csds026@abesit.edu.in**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1kz4rB9YmN37zfkIz91fVUL5WD9iPmL97?usp=share_link]
 
