@@ -1,5 +1,4 @@
-![MasterHead]
-(https://wallpaperboat.com/wp-content/uploads/2019/10/coding-16-920x518.jpg)
+![MasterHead](https://wallpaperboat.com/wp-content/uploads/2019/10/coding-16-920x518.jpg)
 
 <h1 align="center">Hi 👋, I'm Tanuj Sharma</h1>
 <h3 align="center">A passionate COMPETITIVE CODER from India</h3>
